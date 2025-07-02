@@ -15,7 +15,7 @@
     "fs": "^0.0.1-security",
     "install": "^0.13.0",
     "math": "^0.0.3",
-    "mineflayer": "^4.29.0",
+    "mineflayer": "^4.30.0",
     "moment": "^2.30.1"
   }
 }
